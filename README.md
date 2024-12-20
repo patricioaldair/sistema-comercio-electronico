@@ -38,8 +38,4 @@ Instrucciones para configurar y ejecutar el proyecto:
 
 # Integrantes del equipo:
 
--Chavez Peña Zair
 
--Contreras Olivera Angie
-
--Soriano Patricio Aldair
